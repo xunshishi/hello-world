@@ -1,5 +1,4 @@
 # hello-world
-my github first repository
-hi 
+hi !
 this is my xunshishi first branch change something ...
 let's bomb bomb bomb!!
